@@ -1,3 +1,3 @@
 # apcupsd
 ups agent
-Information about charge UPS
+information about charge UPS
